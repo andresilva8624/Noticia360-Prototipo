@@ -62,10 +62,9 @@ Noticia360-Prototipo/
 ├── README.md                       # Documentação do projeto
 ├── assets/                         # Elementos visuais usados no protótipo
 ├── telas/                          # 7 capturas de tela + paleta de cores
-└── Video_Navegacao_Noticia360.mp4  # Demonstração da navegação
+└── Demostracao.mp4                 # Demonstração da navegação
 ```
 
-> O nome do arquivo de vídeo pode variar de acordo com o arquivo enviado ao repositório.
 
 ## 🚀 Publicação no GitHub Pages
 
